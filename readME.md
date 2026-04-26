@@ -6,6 +6,18 @@
 
 ---
 
+## Quick Links
+
+| | Link |
+|---|---|
+| 🔗 **Live Demo** | *Coming soon — deploying to Streamlit Community Cloud* |
+| 🎥 **Demo Video** | *Coming soon — recording in progress* |
+| 📁 **Source Code** | [github.com/The-Harsh-Goyal/talent-scout-agent](https://github.com/The-Harsh-Goyal/talent-scout-agent) |
+| 📂 **Sample I/O** | [`samples/`](https://github.com/The-Harsh-Goyal/talent-scout-agent/tree/main/samples) |
+
+---
+
+
 ## Table of Contents
 
 1. [Problem Statement](#1-problem-statement)
