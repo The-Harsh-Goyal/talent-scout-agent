@@ -32,8 +32,8 @@ client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=OPENROUTER_API_KEY,
     default_headers={
-        "HTTP-Referer": "http://localhost:8501",
-        "X-Title": "Talent Scout Agent"
+    "HTTP-Referer": os.getenv("APP_URL", "http://localhost:8501"),
+    "X-Title": "Talent Scout Agent"
     }
 )
 
