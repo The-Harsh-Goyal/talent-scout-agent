@@ -1,0 +1,55 @@
+Job Title: Senior Data Engineer
+Department: Data Platform
+Location: Bengaluru, India
+Work Mode: Hybrid (3 days onsite)
+Employment Type: Full-time
+Experience Required: 5+ years
+
+--- ABOUT THE ROLE ---
+
+We are looking for a Senior Data Engineer to join our growing FinTech data platform team in Bengaluru. You will be responsible for designing, building, and maintaining scalable data pipelines on Azure, working closely with analytics, data science, and product teams to deliver high-quality, business-ready data products.
+
+This is a hands-on engineering role. You will own the architecture and implementation of ingestion, transformation, and serving layers in a modern lakehouse environment.
+
+--- RESPONSIBILITIES ---
+
+- Design and build scalable, fault-tolerant Azure-based data pipelines for batch and incremental ingestion.
+- Develop and optimize PySpark and SQL workloads on Databricks.
+- Implement and maintain lakehouse architecture using Azure Data Lake Storage Gen2 and Delta Lake.
+- Build and manage ETL/ELT pipelines using Azure Data Factory and Airflow.
+- Collaborate with analytics engineers and data scientists to deliver clean, documented, and well-tested datasets.
+- Monitor pipeline health, debug failures, and implement SLA-aligned alerting.
+- Contribute to data governance practices including lineage tracking, data quality checks, and access control.
+- Mentor junior engineers and participate in technical design reviews.
+
+--- MUST-HAVE SKILLS ---
+
+- Python (advanced: PySpark, pandas, scripting)
+- SQL (complex transformations, query optimization)
+- Azure (Data Lake Storage Gen2, Azure Data Factory, Azure Synapse)
+- Databricks (cluster management, Delta Lake, job orchestration)
+- Apache Spark (distributed processing, optimization)
+- ETL pipeline development (batch and incremental patterns)
+
+--- GOOD TO HAVE ---
+
+- Microsoft Fabric (experience with Fabric workspaces or Lakehouse)
+- Apache Airflow (DAG authoring, dependency management)
+- Delta Lake (time travel, schema evolution, ACID transactions)
+- Data Governance frameworks (data quality, lineage, cataloguing)
+- CI/CD for data pipelines (GitHub Actions, Azure DevOps)
+
+--- DOMAIN PREFERENCE ---
+
+Candidates with prior experience in FinTech or SaaS data platforms are strongly preferred. Exposure to financial data models, regulatory reporting pipelines, or high-volume transaction data is a plus.
+
+--- CANDIDATE REQUIREMENTS ---
+
+- 5+ years of professional data engineering experience.
+- Strong communication skills and ability to work cross-functionally.
+- Based in Bengaluru or willing to relocate. Hybrid work arrangement (3 days onsite per week).
+- Immediate to 60-day notice period preferred.
+
+--- COMPENSATION ---
+
+Competitive compensation in the range of 24-32 LPA depending on experience and current CTC. ESOPs available for strong candidates.
