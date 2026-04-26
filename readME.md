@@ -93,7 +93,21 @@ The agent produces **per-candidate explainability** at every stage: which skills
 
 ## 3. Architecture
 
-```
+### High-level architecture
+
+![Talent Scout Agent high-level architecture](assets/architecture_high_level.png)
+
+This diagram shows the end-to-end pipeline from recruiter input to final shortlist generation.
+
+### Scoring and decision logic
+
+![Talent Scout Agent scoring and decision logic](assets/architecture_scoring_logic.png)
+
+This diagram isolates the scoring system so judges can quickly understand how fit, interest, and recruiter actions are computed.
+
+### Repository structure view
+
+```text
 talent-scout-agent/
 │
 ├── app.py                     # Streamlit UI — orchestrates the full pipeline
@@ -107,6 +121,10 @@ talent-scout-agent/
 │
 ├── data/
 │   └── candidates.csv         # Built-in sample candidate pool (12 candidates)
+│
+├── assets/
+│   ├── architecture_high_level.png
+│   └── architecture_scoring_logic.png
 │
 ├── .env.example               # Environment variable template
 ├── requirements.txt           # All Python dependencies (pinned versions)
