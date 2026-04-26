@@ -1,21 +1,30 @@
 # 🎯 Talent Scout Agent
 
-> **AI-powered candidate discovery, matching, and interest simulation for recruiters.**
->
-> Built for a solo AI Agent hackathon. Solves a real recruiting pain point end-to-end: given a job description and a candidate pool, the agent parses the JD, scores every candidate using a deterministic hybrid algorithm, simulates outreach responses using a free LLM, and produces a ranked, actionable shortlist — all in a single Streamlit session.
+> AI-powered candidate discovery, matching, and interest simulation for recruiters.
 
----
+**🌐 Live Demo:** [https://talent-scout-agent.streamlit.app](https://talent-scout-agent.streamlit.app)
 
-## Quick Links
+**📖 Full documentation, architecture, scoring logic, and setup guide: [readME.md](./readME.md)**
 
-| | Link |
+## Quick Start
+
+```bash
+git clone https://github.com/The-Harsh-Goyal/talent-scout-agent.git
+cd talent-scout-agent
+pip install -r requirements.txt
+cp .env.example .env   # add your OPENROUTER_API_KEY
+streamlit run app.py
+```
+
+## Stack
+
+| Layer | Tool |
 |---|---|
-| 🔗 **Live Demo** | *Coming soon — deploying to Streamlit Community Cloud* |
-| 🎥 **Demo Video** | *Coming soon — recording in progress* |
-| 📁 **Source Code** | [github.com/The-Harsh-Goyal/talent-scout-agent](https://github.com/The-Harsh-Goyal/talent-scout-agent) |
-| 📂 **Sample I/O** | [`samples/`](https://github.com/The-Harsh-Goyal/talent-scout-agent/tree/main/samples) |
-
----
+| UI | Streamlit |
+| LLM | OpenRouter (free tier — 10-model fallback chain) |
+| Embeddings | sentence-transformers/all-MiniLM-L6-v2 |
+| Schema validation | Pydantic v2 |
+| Data | pandas |
 
 
 ## Table of Contents
