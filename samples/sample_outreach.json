@@ -1,0 +1,40 @@
+{
+  "candidate": {
+    "candidate_id": "C001",
+    "name": "Aarav Mehta",
+    "current_title": "Senior Data Engineer",
+    "years_experience": 6.0,
+    "location": "Bengaluru",
+    "work_mode": "Hybrid",
+    "current_company": "Nexora",
+    "expected_salary_lpa": 28,
+    "notice_period_days": 30,
+    "candidate_status": "active"
+  },
+  "interest_signals": {
+    "simulated_response": "Hi, thanks for reaching out! This role looks like a strong fit with my background in Azure, Databricks, and Spark pipelines. I have been working on very similar lakehouse architectures at Nexora for the past two years. The FinTech domain aligns well with my current experience. I am open to a hybrid arrangement similar to what I have now. The compensation range you mentioned is slightly below my current expectation of 28 LPA, but I would be open to a conversation depending on the overall package and growth trajectory. Happy to connect this week if that works.",
+    "interest_level": "high",
+    "sentiment": "positive",
+    "notice_period_days": 30,
+    "compensation_alignment": "negotiable",
+    "work_mode_alignment": "aligned",
+    "follow_up_likelihood": "high",
+    "key_signals": [
+      "Strong technical skill alignment with JD must-haves",
+      "FinTech domain experience matches role preference",
+      "30-day notice period — fast availability",
+      "Compensation slightly above band but open to discussion",
+      "Hybrid work mode fully aligned",
+      "Proactively asked to connect this week"
+    ],
+    "summary": "Aarav is highly interested and a strong match. His technical stack aligns almost perfectly with the JD requirements, and his FinTech background at Nexora is directly relevant. The only friction point is compensation — he expects 28 LPA against a band of 24-32 LPA, which is within range but toward the upper end. Recommend calling immediately to discuss the full package before he engages with competing opportunities."
+  },
+  "scores": {
+    "match_score": 83.4,
+    "rule_based_score": 79.1,
+    "semantic_score": 91.2,
+    "interest_score": 87.0,
+    "combined_score": 84.8,
+    "recruiter_action": "Call Now"
+  }
+}
