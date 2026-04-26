@@ -1,0 +1,49 @@
+{
+  "job_title": "Senior Data Engineer",
+  "seniority": "Senior",
+  "min_years_experience": 5.0,
+  "max_years_experience": null,
+  "location": "Bengaluru",
+  "work_mode": "Hybrid",
+  "employment_type": "Full-time",
+  "must_have_skills": [
+    "Python",
+    "SQL",
+    "Azure",
+    "Databricks",
+    "Spark",
+    "ETL"
+  ],
+  "good_to_have_skills": [
+    "Microsoft Fabric",
+    "Airflow",
+    "Delta Lake",
+    "Data Governance",
+    "CI/CD"
+  ],
+  "domain_experience": [
+    "FinTech",
+    "SaaS"
+  ],
+  "responsibilities": [
+    "Design and build scalable fault-tolerant Azure-based data pipelines",
+    "Develop and optimize PySpark and SQL workloads on Databricks",
+    "Implement and maintain lakehouse architecture using ADLS Gen2 and Delta Lake",
+    "Build and manage ETL/ELT pipelines using Azure Data Factory and Airflow",
+    "Collaborate with analytics engineers and data scientists",
+    "Monitor pipeline health and implement SLA-aligned alerting",
+    "Contribute to data governance practices",
+    "Mentor junior engineers and participate in technical design reviews"
+  ],
+  "keywords": [
+    "lakehouse",
+    "ADLS Gen2",
+    "data platform",
+    "PySpark",
+    "medallion architecture",
+    "data products",
+    "Azure Synapse",
+    "data quality"
+  ],
+  "summary": "Senior Data Engineer role in Bengaluru for a FinTech data platform team requiring Python, SQL, Azure, Databricks, and Spark with 5+ years experience in a hybrid work arrangement."
+}
